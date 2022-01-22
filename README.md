@@ -59,7 +59,7 @@ Sebelum memulai, pastikan telah terinstall beberapa tools:
         <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
         <title>
-            Home . Argon
+            Nyobaan Ngoding Ironman
         </title>
 
         <!-- Nucleo Icons -->
@@ -78,8 +78,6 @@ Sebelum memulai, pastikan telah terinstall beberapa tools:
 	<script src="assets/js/argon-design-system.min.js?v=1.2.2" type="text/javascript"></script>
     ```
 
-* Hapus isi dari tag `<body>` dan sesuaikan tampilan sesuai kebutuhan. Tampilan `index.html` akan tampak seperti berikut.
-  ![alt text](https://raw.githubusercontent.com/kunkoder/php-dasar/master/images/index.png)
 * Salin `index.html` dan buatlah halaman:
     * register.html
     * login.html
@@ -91,17 +89,3 @@ Sebelum memulai, pastikan telah terinstall beberapa tools:
 
 ## :eyes: Preview
 
-**register.html**
-![alt text](https://raw.githubusercontent.com/kunkoder/php-dasar/master/images/register.png)
-
-**login.html**
-![alt text](https://raw.githubusercontent.com/kunkoder/php-dasar/master/images/login.png)
-
-**profile.html**
-![alt text](https://raw.githubusercontent.com/kunkoder/php-dasar/master/images/profile.png)
-
-**admin.html**
-![alt text](https://raw.githubusercontent.com/kunkoder/php-dasar/master/images/admin.png)
-
-**edit.html**
-![alt text](https://raw.githubusercontent.com/kunkoder/php-dasar/master/images/edit.png)
